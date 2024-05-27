@@ -1,0 +1,20 @@
+.card-nvr{
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+}
+
+.social-media a {
+    margin-right: 15px; /* Menambahkan margin kanan */
+    text-decoration: none; /* Menghapus garis bawah pada link */
+    color: black;
+}
+
+.social-media a:last-child {
+    margin-right: 20px; /* Menghapus margin pada item terakhir */
+}
+
+body{
+    background-image: url(img/img1.jpg);
+    background-repeat: no-repeat;
+}
